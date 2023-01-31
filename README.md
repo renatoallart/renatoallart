@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Typescript, Nextjs, Tailwind, Reactjs, and figma.<br/>
-📫 How to reach me: renato.senstec@gmail.com
+📫 How to reach me: renato.senstec@gmail.com<br/>
+⚡ My protfolio: https://portfolio-renatoallart.vercel.app/
 
 
 ## 🌐 Socials:
